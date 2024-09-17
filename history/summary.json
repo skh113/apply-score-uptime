@@ -40,19 +40,19 @@
     "url": "https://sanagiti.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sanagiti.com.ico",
     "slug": "sanagiti",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1226,
-    "timeDay": 955,
-    "timeWeek": 1226,
-    "timeMonth": 1226,
-    "timeYear": 1226,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 1170,
+    "timeDay": 951,
+    "timeWeek": 1170,
+    "timeMonth": 1170,
+    "timeYear": 1170,
     "dailyMinutesDown": {
-      "2024-09-17": 1
+      "2024-09-17": 9
     }
   },
   {
