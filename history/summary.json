@@ -40,19 +40,19 @@
     "url": "https://sanagiti.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sanagiti.com.ico",
     "slug": "sanagiti",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1212,
-    "timeDay": 1419,
-    "timeWeek": 1212,
-    "timeMonth": 1212,
-    "timeYear": 1212,
+    "status": "up",
+    "uptime": "99.45%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
+    "time": 1171,
+    "timeDay": 1172,
+    "timeWeek": 1171,
+    "timeMonth": 1171,
+    "timeYear": 1171,
     "dailyMinutesDown": {
-      "2024-09-18": 1
+      "2024-09-18": 30
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://dev.applyscore.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/dev.applyscore.co.uk.ico",
     "slug": "sanagiti-dev",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1249,
-    "timeDay": 1358,
-    "timeWeek": 1249,
-    "timeMonth": 1249,
-    "timeYear": 1249,
+    "status": "up",
+    "uptime": "99.45%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
+    "time": 1225,
+    "timeDay": 1231,
+    "timeWeek": 1225,
+    "timeMonth": 1225,
+    "timeYear": 1225,
     "dailyMinutesDown": {
-      "2024-09-18": 0
+      "2024-09-18": 30
     }
   },
   {
