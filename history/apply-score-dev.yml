@@ -1,7 +1,7 @@
 url: https://dev.applyscore.net/
-status: up
-code: 200
-responseTime: 588
-lastUpdated: 2024-10-23T23:10:51.349Z
+status: down
+code: 503
+responseTime: 478
+lastUpdated: 2024-10-24T09:42:49.192Z
 startTime: 2024-09-14T17:13:36.086Z
 generator: Upptime <https://github.com/upptime/upptime>
