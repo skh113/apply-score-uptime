@@ -1,7 +1,7 @@
 url: https://dev.applyscore.co.uk/
-status: up
-code: 200
-responseTime: 1481
-lastUpdated: 2024-11-25T23:11:23.046Z
+status: down
+code: 504
+responseTime: 15678
+lastUpdated: 2024-11-26T17:34:32.870Z
 startTime: 2024-09-14T17:13:33.793Z
 generator: Upptime <https://github.com/upptime/upptime>
